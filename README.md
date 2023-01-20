@@ -3,12 +3,12 @@
 
 - 🌱 ahora mismo estoy estudiando **Curso de especializacion de ciberseguridad, tengo el grado medio de smr y grado superior de DAM**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adriantirado](https://github.com/adriantirado)
+- 👨‍💻 Todos mi proyectos estan disponible en  [https://github.com/adriantirado](https://github.com/adriantirado)
 
-- 📫 How to reach me **adriancrack123@gmail.com**
+- 📫 Pudes contactar conmigo en **adriancrack123@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/adriantiradogarcia](www.linkedin.com/in/adriantiradogarcia)
-
+- 📄 Saber un poco mas de mi experienia en [www.linkedin.com/in/adriantiradogarcia](www.linkedin.com/in/adriantiradogarcia)
+- Enlace al blog del proyecto de FCT del grado medio [trabajofctadrian.blogspot.com](trabajofctadrian.blogspot.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adriantiradogarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriantiradogarcia" height="30" width="40" /></a>
