@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Adrian Tirado Garcia</h1>
-<h3 align="center">Soy un apasionado de la informatica y ciberseguridad. Backend| Frontend básico| Desarrollador de apps| Ciberseguridad.</h3>
+<h3 align="center">Soy un apasionado de la informatica y ciberseguridad</h3>
 
 - 🌱 ahora mismo estoy estudiando **Curso de especializacion de ciberseguridad, tengo el grado medio de smr y grado superior de DAM**
 
