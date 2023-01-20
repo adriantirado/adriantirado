@@ -7,8 +7,8 @@
 
 - 📫 Pudes contactar conmigo en **adriancrack123@gmail.com**
 
-- 📄 Saber un poco mas de mi experienia en (www.linkedin.com/in/adriantiradogarcia)
-- Enlace al blog del proyecto de FCT del grado medio 
+- 📄 Saber un poco mas de mi experienia en www.linkedin.com/in/adriantiradogarcia
+- Enlace al blog del proyecto de FCT del grado medio trabajofctadrian.blogspot.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adriantiradogarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriantiradogarcia" height="30" width="40" /></a>
