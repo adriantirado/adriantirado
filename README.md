@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Adrian Tirado Garcia</h1>
 
-Tengo 23 años me encanta el mundo de la tecnología, informática y ciberseguridad, tengo un proyecto en proceso con un amigo se trata de una red social para animales. He estado de practica en la empresa de OpenBootcamp ayudando en mejorar la pagina de recruitery también hice una pagina ficticia de comprar y ventas en la FCT del grado medio usando WordPress y AWS como servidor
+Tengo 23 años me encanta el mundo de la tecnología, informática y ciberseguridad, tengo un proyecto en proceso con un amigo se trata de una red social para animales. He estado de practica en la empresa de OpenBootcamp ayudando en mejorar la pagina de recruiter y también hice una pagina ficticia de comprar y ventas en la FCT del grado medio usando WordPress y AWS como servidor
 
 - 🌱 ahora mismo estoy estudiando **Curso de especializacion de ciberseguridad, tengo el grado medio de smr y grado superior de DAM**
 
